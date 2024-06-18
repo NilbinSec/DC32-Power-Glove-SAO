@@ -1,6 +1,11 @@
 # DC32-Power-Glove-SAO
 NilbinSec's DC32 SAO Repository
 
+# PCB Fabrication
+The only PCB Fab that we found that had the correct colors at a reasonable price was PCBBuy.com
+
+Recommend Grey soldermask with black silkscreen, we wpecifically chose HASL but ENIG could be picked if you wanted the words to pop in gold instead of silver. 
+
 # BOM
 1. 2x 0805 SMD resistor 470R
 2. 3x 0807 Slow Fast Flashing RGB SMD Led -- Fast or Slow will work
